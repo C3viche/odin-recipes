@@ -15,3 +15,6 @@ A basic webpage with some cooking recipes. This is a test site to practice simpl
 - spaghetti
 - hard shell tacos
 - breaded chicken
+
+#
+![Main app page](odin-recipes-main.png)
